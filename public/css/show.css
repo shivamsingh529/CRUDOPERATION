@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+body{
+    color: white;
+    background-color: black;
+}
+.cont{
+    width: 50vw;
+    margin: 0.5rem;
+    height: 80px;
+    background-color: blanchedalmond;
+    color: black;
+}

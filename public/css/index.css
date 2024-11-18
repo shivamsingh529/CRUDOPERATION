@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+body{
+    color: white;
+    background-color: black;
+}
+h1{
+    color: rebeccapurple;
+    text-align: center;
+    margin-block: 2rem;
+}
+h3{
+    color: blue;
+}
+a{
+    margin-inline: 2rem;
+}
+.create{
+    margin: 2rem;
+    color: white;
+    text-decoration: none;
+    padding-inline: 25px;
+    padding-block: 12px;
+    border: 2px solid rgb(62, 62, 248);
+    border-radius: 45px;
+    background-color: rgb(62, 62, 248);
+}
+.post-box{
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container{
+    width: 400px;
+    height: 200px;
+    margin: 0.5rem;
+    margin-inline: 2rem;
+    background-color: rgba(0, 255, 255, 0.723);
+    color: black;
+}
